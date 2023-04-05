@@ -1,0 +1,15 @@
+C:\Users\marin\Desktop\Domashka 3\dz1\bin\Debug\net6.0\dz1.exe
+C:\Users\marin\Desktop\Domashka 3\dz1\bin\Debug\net6.0\dz1.deps.json
+C:\Users\marin\Desktop\Domashka 3\dz1\bin\Debug\net6.0\dz1.runtimeconfig.json
+C:\Users\marin\Desktop\Domashka 3\dz1\bin\Debug\net6.0\dz1.dll
+C:\Users\marin\Desktop\Domashka 3\dz1\bin\Debug\net6.0\dz1.pdb
+C:\Users\marin\Desktop\Domashka 3\dz1\obj\Debug\net6.0\dz1.csproj.AssemblyReference.cache
+C:\Users\marin\Desktop\Domashka 3\dz1\obj\Debug\net6.0\dz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\Domashka 3\dz1\obj\Debug\net6.0\dz1.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\Domashka 3\dz1\obj\Debug\net6.0\dz1.AssemblyInfo.cs
+C:\Users\marin\Desktop\Domashka 3\dz1\obj\Debug\net6.0\dz1.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\Domashka 3\dz1\obj\Debug\net6.0\dz1.dll
+C:\Users\marin\Desktop\Domashka 3\dz1\obj\Debug\net6.0\refint\dz1.dll
+C:\Users\marin\Desktop\Domashka 3\dz1\obj\Debug\net6.0\dz1.pdb
+C:\Users\marin\Desktop\Domashka 3\dz1\obj\Debug\net6.0\dz1.genruntimeconfig.cache
+C:\Users\marin\Desktop\Domashka 3\dz1\obj\Debug\net6.0\ref\dz1.dll
